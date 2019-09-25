@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/lakshi/Desktop/rasa with all data/models/current/nlu/component_4_EmbeddingIntentClassifier.ckpt"
+all_model_checkpoint_paths: "/home/lakshi/Desktop/rasa with all data/models/current/nlu/component_4_EmbeddingIntentClassifier.ckpt"
